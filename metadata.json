@@ -1,0 +1,6 @@
+{
+  "name": "PISCES",
+  "description": "PISCES - Indian Options Trade Mirroring Platform with Leader Signals, Customer Risk Controls, Paper Broker Sandbox, and Admin Compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
